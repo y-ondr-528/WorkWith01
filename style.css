@@ -20,7 +20,7 @@
 .section__text {
   font-size: 1.6rem;
   line-height: 2.0;
-  text-align: center;
+  text-align: center
 }
 
 .section__text:not(:last-child) {
@@ -32,7 +32,7 @@
 ------------------------------*/
 .page-header {
   padding-top: 40%;
-  background: url() center top no-repeat
+  background: url(https://github.com/y-ondr-528/WorkWith01/blob/master/bg-main_visual.jpg?raw=true) center top no-repeat
   background-size: cover;
   position: relative;
 }
@@ -54,7 +54,7 @@
 「働く」をデザインする
 ------------------------------*/
 #feature {
-  background: url() center center no-repeat;
+  background: url(https://github.com/y-ondr-528/WorkWith01/blob/master/bg-content.jpg?raw=true) center center no-repeat;
   background-size: cover;
   background-attachment: fixed;
 }
