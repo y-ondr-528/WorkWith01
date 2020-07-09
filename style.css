@@ -32,7 +32,7 @@
 ------------------------------*/
 .page-header {
   padding-top: 40%;
-  background: url(https://github.com/y-ondr-528/WorkWith01/blob/master/bg-main_visual.jpg?raw=true) ;
+  background: url(https://github.com/y-ondr-528/WorkWith01/blob/master/bg-main_visual.jpg?raw=true) center top no-repeat ;
   background-size: cover;
   position: relative;
 }
